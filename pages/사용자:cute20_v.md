@@ -1,5 +1,5 @@
 ||<tablealign=right><tablewidth=380><tablebordercolor=#9c0606><tablebgcolor=#ffffff><bgcolor=#9c0606><color=#ffffff><-2> '''소방관'''[br]{{{+1 '''안현민'''}}}[br]SDFOJPWGPIO ||
-||<width=15%><bgcolor=#9c0606><color=#ffffff> '''출생''' || [[2003년]] [[9월 13일]] (23세)[br][[부산광역시]] [[삼산구]] [[울진동]] [[울진5로]] ||
+||<width=15%><bgcolor=#9c0606><color=#ffffff> '''출생''' || [[2003년]] [[9월 13일]] ([age(2003-09-13)]세)[br][[부산광역시]] [[삼산구]] [[울진동]] [[울진5로]] ||
 ||<width=15%><bgcolor=#9c0606><color=#ffffff> '''거주''' ||거주지없음 ||
 ||<bgcolor=#9c0606><color=#ffffff> '''신체''' || 150cm｜[[A형]] ||
 ||<bgcolor=#9c0606><color=#ffffff> '''학력''' || 울진동초등학교 (전학)[br] [[기성초등학교]] (졸업)[br] [[삼산중학교]] (졸업)[br] 검정고시|| 
