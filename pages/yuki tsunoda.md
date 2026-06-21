@@ -1,13 +1,10 @@
 [목차]
 
-||<tablealign=right><tablewidth=380><tablebordercolor=#2e7d32><tablebgcolor=#ffffff><bgcolor=#2e7d32><color=#ffffff><-2> '''김부네''' ||
-||<-2> [[파일:Boone.png|width=100%]] ||
-||<width=30%><bgcolor=#e8f5e9> 닉네임 || Boone0912123 ||
-||<bgcolor=#e8f5e9> 활동명 || yukkik thunoda[* 원래는 yuki tsunoda가 맞다] ||
-||<bgcolor=#e8f5e9> 출생 || 경상북도 울진군 기성면 삼산리 ||
-||<bgcolor=#e8f5e9> 활동 분야 || 레이싱[*이전에 삼산면 레이스에서 1등을 했다.] ||
-||<bgcolor=#e8f5e9> 신체 || 159.9 | O형 ||
-||<bgcolor=#e8f5e9> 학력 || 기성초등학교 (졸업) ||
+||<tablealign=right><tablewidth=380><tablebordercolor=#2e7d32><tablebgcolor=#ffffff><bgcolor=#2e7d32><color=#ffffff><-2> '''삼산여객 기사'''[br]{{{+1 '''김부네'''}}}[br]Boone0912123 ||
+||<-2><bgcolor=#ffffff><nopad> [[파일:Boone.png]]||
+||<width=15%><bgcolor=#2e7d32><color=#ffffff> '''출생''' || [[2023년 2월 3일]] ([age(2023-02-03)]세)[br][[경상북도]] [[울진군]] [[기성면]] 삼산리 ||
+||<bgcolor=#2e7d32><color=#ffffff> '''신체''' || 159.9cm｜[[O형]] ||
+||<bgcolor=#2e7d32><color=#ffffff> '''학력''' || [[울진고등학교]] (졸업) ||
 
 == 개요 ==
 
