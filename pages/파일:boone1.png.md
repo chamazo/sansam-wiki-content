@@ -18,3 +18,5 @@
 
 원본 이름: boone1.png
 파일 경로: images/f6a33f0a9cce402cbf0cab12bd18aa18.png
+
+[[분류:파일/이미지]]
