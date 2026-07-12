@@ -21,9 +21,8 @@
 === 역대 로고 ===
 
 ==== 1세대 (1987~현재) ====
-||<tablebordercolor=#2282b9,#2282b9><bgcolor=#2282b9,#2282b9><table width=600> {{{#ffffff '''상표 로고'''}}}[br]{{{#ffffff '''(1961년 12월 31일~1973년 3월 1일)'''}}} ||
-||<width=50%><bgcolor=white,#1c1d1f> [[파일:KBS 로고(1961-1973).svg|width=150&theme=light]][[파일:KBS 로고(1961-1973) 화이트.svg|width=150&theme=dark]] ||
-
+||<tablebordercolor=#2282b9,#2282b9><bgcolor=#2282b9,#2282b9><table width=600> {{{#ffffff '''상표 로고'''}}}[br]{{{#ffffff '''(1987년 4월 1일~현재)'''}}} ||
+||<width=50%><bgcolor=white,#1c1d1f> [[파일:STV 로고(1987~현재).svg|width=150&theme=light]][[파일:STV 로고(1987~현재) 화이트.svg|width=150&theme=dark]] ||
 == 마케팅 ==
 
 === 로고송 ===
