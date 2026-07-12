@@ -1,12 +1,14 @@
 [[분류:삼산방송]][[분류:대한민국의 방송사]][[분류:아시아의 공영방송]][[분류:1987년 설립]]
 [include(틀:대한민국의 지상파 방송국)]
-||<-3><tablealign=right><tablewidth=450><tablebordercolor=#2282b9,#2282b9><colbgcolor=#2282b9,#2282b9><colcolor=#fff><tablebgcolor=#fff,#1c1d1f> '''{{{+2 삼산방송}}}[br]韓國放送公社'''｜'''Samsan Television''' ||
+||<-3><tablealign=right><tablewidth=450><tablebordercolor=#2282b9,#2282b9><colbgcolor=#2282b9,#2282b9><colcolor=#fff><tablebgcolor=#fff,#1c1d1f> '''{{{+2 삼산방송}}}[br]三山廣播'''｜'''Samsan Television''' ||
 ||<-3><height=135><bgcolor=#fff,#1c1d1f> [[파일:KBS 로고.svg|height=65&theme=light]][[파일:KBS 로고 컬러 화이트.svg|height=65&theme=dark]] ||
 ||<-3> '''없음''' ||
 ||<-2> '''국가''' ||[include(틀:국기, 국명=대한민국)] ||
 ||<-2> '''설립''' ||[[1987년]] [[4월 1일]] {{{-2 '''([age(1987-04-01)]주년)'''}}} ||
 ||<|1><width=50> '''개국''' ||<width=60><colbgcolor=#2282b9,#2282b9><colcolor=#fff> '''TV''' ||[[1987년]] [[4월 1일]] {{{-2 '''([age(1987-04-01)]주년)'''}}} ||
 ||<-2>'''주소''' ||[[경상북도]] [[울진군]] [[기성본길]] 154-6 ([[기성면]]) ||
+||<-3> {{{#!wiki style="margin: -5px -10px"
+[include(틀:지도, 장소=36.80284736733299,129.45703165052242, 높이=200px, 너비=100%)]}}} ||
 ||<|2> '''국내[br]방송''' ||'''TV''' ||STV ||
 ||'''라디오''' ||<bgcolor=transparent>{{{#000 STV 제1라디오}}} ||
 ||<-2> '''링크''' ||[https://www.youtube.com/@Samsan00BS|[[파일:홈페이지 아이콘.png|width=22]]] ||
