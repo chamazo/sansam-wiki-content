@@ -8,8 +8,8 @@
 ||<|1><width=50> '''개국''' ||<width=60><colbgcolor=#2282b9,#2282b9><colcolor=#fff> '''TV''' ||[[1987년]] [[4월 1일]] {{{-2 '''([age(1987-04-01)]주년)'''}}} ||
 ||<-2>'''주소''' ||[[경상북도]] [[울진군]] [[기성본길]] 154-6 ([[기성면]]) ||
 ||<|2> '''국내[br]방송''' ||'''TV''' ||STV ||
-||<-1> '''라디오''' ||STV 제1라디오 ||
-||<-2> '''링크''' ||||
+||'''라디오''' ||<bgcolor=transparent>{{{#000 STV 제1라디오}}} ||
+||<-2> '''링크''' ||[https://www.youtube.com/@Samsan00BS|[[파일:홈페이지 아이콘.png|width=22]]] ||
 
 [목차]
 [clearfix]
@@ -44,13 +44,13 @@
 ||[[STV 제1라디오]] || ||AM 112㎑/FM 11.9㎒ ||
 
 === 지상파 텔레비전 방송 ===
-* [https://www.youtube.com/@Samsan00BS|삼산방송]
+* [https://www.youtube.com/@Samsan00BS|STV]
 
 === 인터넷 방송 ===
 * [https://www.youtube.com/@Samsan00BS|삼산방송]
+
 === 유튜브 채널 ===
 * [https://www.youtube.com/@Samsan00BS|삼산방송]
-
 == 방송 현황 ==
 
 == 여담 ==
