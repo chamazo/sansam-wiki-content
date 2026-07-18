@@ -29,7 +29,7 @@ BJ삼택의 게임세상
 
 === 방송 ===
 ||<tablealign=center><tablewidth=700><tablebordercolor=#ec9e00><tablebgcolor=#fff><rowbgcolor=#ec9e00><rowcolor=#fff><width=15%> '''연도''' ||<width=20%> '''방송사''' ||<width=30%> '''제목''' ||<width=20%> '''역할''' ||<width=20%> '''비고''' ||
-|| [[2026년]] || [[STV|[[파일:STV 블랙.png|width=40]]]] || [[제 3회 삼산면 이장선거|제 3회 삼산면 이장선거 개표방송]] || BJ삼택 || ||
+|| [[2026년]] || [[STV|[[파일:STV 블랙.png|width=40]]]] || [[삼산면 이장 재보궐 선거|삼산면 이장 재보궐 선거 개표방송]] || BJ삼택 || ||
 || [[2026년]] || [[STV|[[파일:STV 블랙.png|width=40]]]] || ~~[[STV]] 엑셀방송~~ || BJ삼택 || ||
 === 광고 ===
 ||<tablealign=center><tablewidth=700><tablebordercolor=#ec9e00><tablebgcolor=#fff><rowbgcolor=#ec9e00><rowcolor=#fff><width=15%> '''연도''' ||<width=20%> '''기업''' ||<width=30%> '''브랜드''' ||<width=20%> '''비고''' ||
