@@ -1,6 +1,6 @@
 [[분류:2012년 출생]][[분류:대한민국의 남성 방송인]][[분류:안성시 출신 인물]][[분류:개산초등학교 출신]][[분류:실존 인물]][[분류:가상 인물]]
 
-||<-2><tablealign=right><tablewidth=450px><tablebordercolor=#ffd000,#ffd000><tablebgcolor=transparent><colbgcolor=#ffd000,#ffd000>'''{{{#ffffff 삼산의 방송인[br]{{{+3 BJ삼택}}}}}}''' ||
+||<-2><tablealign=right><tablewidth=450px><tablebordercolor=#ec9e00><tablebgcolor=transparent><colbgcolor=#ec9e00> '''{{{#ffffff 삼산의 방송인[br]{{{+3 BJ삼택}}}}}}''' ||
 ||<-2><nopad> [[파일:BJ삼택.png|width=100%]] ||
 || '''{{{#ffffff 본명}}}''' ||정우빈[* 삼산택시의 사장 [[정우빈]]과는 별개 인물이라 말한다.] ||
 ||<|2><width=100> '''{{{#ffffff 출생}}}''' ||[[2012년]] [[3월 16일]]([age(2012-03-16)]세) ||
@@ -28,12 +28,11 @@ BJ삼택의 게임세상
 == 출연 ==
 
 === 방송 ===
-||<tablealign=center><tablewidth=700><tablebordercolor=#ffd000><tablebgcolor=#fff><rowbgcolor=#ffd000><rowcolor=#fff><width=15%> '''연도''' ||<width=20%> '''방송사''' ||<width=30%> '''제목''' ||<width=20%> '''역할''' ||<width=20%> '''비고''' ||
-|| [[2026년]] || [[STV|[[파일:STV 블랙.png|width=40]]]] || [[제 3회 삼산면 이장선거 개표방송]] || BJ삼택 || ||
+||<tablealign=center><tablewidth=700><tablebordercolor=#ec9e00><tablebgcolor=#fff><rowbgcolor=#ec9e00><rowcolor=#fff><width=15%> '''연도''' ||<width=20%> '''방송사''' ||<width=30%> '''제목''' ||<width=20%> '''역할''' ||<width=20%> '''비고''' ||
+|| [[2026년]] || [[STV|[[파일:STV 블랙.png|width=40]]]] || [[제 3회 삼산면 이장선거|제 3회 삼산면 이장선거 개표방송]] || BJ삼택 || ||
 || [[2026년]] || [[STV|[[파일:STV 블랙.png|width=40]]]] || ~~[[STV]] 엑셀방송~~ || BJ삼택 || ||
-
 === 광고 ===
-||<tablealign=center><tablewidth=700><tablebordercolor=#ffd000><tablebgcolor=#fff><rowbgcolor=#ffd000><rowcolor=#fff><width=15%> '''연도''' ||<width=20%> '''기업''' ||<width=30%> '''브랜드''' ||<width=20%> '''비고''' ||
+||<tablealign=center><tablewidth=700><tablebordercolor=#ec9e00><tablebgcolor=#fff><rowbgcolor=#ec9e00><rowcolor=#fff><width=15%> '''연도''' ||<width=20%> '''기업''' ||<width=30%> '''브랜드''' ||<width=20%> '''비고''' ||
 || [[2026년]] || [[삼산노인회]] ||  ||  ||
 || [[2026년]] || [[삼산택시 주식회사]] || 택시 || 전속모델 계약 ||
 || [[2026년]] || [[대한전자]] || 전체 || 전속모델 계약 ||
