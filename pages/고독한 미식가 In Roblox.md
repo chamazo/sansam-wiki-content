@@ -1,4 +1,6 @@
-[[분류:고독한 미식가 In Roblox]][[분류:2010년대 드라마]][[분류:2020년대 드라마]][[분류:일본 드라마 원작 드라마]][[분류:요리 드라마]]
+[[분류:고독한 미식가 In Roblox]][[분류:2020년대 드라마]][[분류:일본 드라마 원작 드라마]][[분류:요리 드라마]]
+
+[include(틀:고독한 미식가 In Roblox)]
 
 ||<-2><tablealign=right><tablewidth=450><tablebordercolor=#b7b6b4><tablebgcolor=#ffffff><colbgcolor=#b7b6b4><colcolor=#fff> {{{#ffffff {{{+3 '''고독한 미식가 In Roblox'''}}} (2026~) [br] ''孤独のグルメ In Roblox[br]Solitary Gourmet In Roblox''}}} ||
 ||<-2><bgcolor=#ffffff<nopad> [[파일:고독한 미식가 In Roblox 포스터.png|width=100%]] ||
@@ -48,9 +50,10 @@
  * 눈물의 헝그리로드(涙のハングリーロード)
  * 고독한 고기구이(孤独の焼肉)
 원작 드라마와 똑같은 OST를 활용한다.
-== 에피소드 ==
 
-== 촬영지 ==
+== [[에피소드]] ==
+
+== [[로케 촬영지|촬영지]] ==
 
 == 기타 ==
 
