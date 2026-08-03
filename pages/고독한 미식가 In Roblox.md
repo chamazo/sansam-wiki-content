@@ -5,7 +5,7 @@
 ||<-2><tablealign=right><tablewidth=450><tablebordercolor=#b7b6b4><tablebgcolor=#ffffff><colbgcolor=#b7b6b4><colcolor=#fff> {{{#ffffff {{{+3 '''고독한 미식가 In Roblox'''}}} (2026~) [br] ''孤独のグルメ In Roblox[br]Solitary Gourmet In Roblox''}}} ||
 ||<-2><bgcolor=#ffffff<nopad> [[파일:고독한 미식가 In Roblox 포스터.png|width=100%]] ||
 ||<colbgcolor=#b7b6b4,#2d2f34><colcolor=#ffffff,#e0e0e0> '''방송 시간''' ||ᅟ{{{#!wiki style="display: inline-block; padding: 2px 3px; border-radius: 3px; background: #B7B6B4; font-size: .8em; color: #ffffff"
-'''시즌 1'''}}} 매월 1~2회[* 비정규성 방송이다.] ||
+'''시즌 1'''}}} 매월 2~4회[* 비정규성 방송이다.] ||
 || '''방송 기간''' ||{{{#!folding [ 펼치기 · 접기 ]
 ^^시즌 1^^ [[2026년]] [[8월 1일]] ~ 현재
 }}} ||
