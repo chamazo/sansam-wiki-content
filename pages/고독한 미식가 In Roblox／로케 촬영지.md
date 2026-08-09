@@ -1,4 +1,5 @@
 [[분류:고독한 미식가 In Roblox]][[분류:드라마 촬영지]]
+[include(틀:상위 문서, 문서명1=고독한 미식가 In Roblox)]
 [include(틀:고독한 미식가 In Roblox)]
 
 [목차]
