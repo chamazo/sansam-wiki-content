@@ -24,7 +24,7 @@
 
 ==== 1세대 (1987~현재) ====
 ||<:><tablebordercolor=#2282b9,#2282b9><bgcolor=#2282b9,#2282b9><table width=600> {{{#ffffff '''상표 로고'''}}}[br]{{{#ffffff '''(1987년 4월 1일~현재)'''}}} ||
-||<:><width=50%><bgcolor=white,#1c1d1f> [[파일:STV 블랙.png|width=150&theme=light]] ||
+||<:><width=50%><bgcolor=white,#1c1d1f> [[파일:STV 화이트.png|height=65&theme=black]][[파일:STV 블랙.png|height=65&theme=light]] ||
 == 수신료 ==
  * [https://www.youtube.com/@Samsan00BS|STV 수신료] 채널 구독하기
 == 직원 ==
