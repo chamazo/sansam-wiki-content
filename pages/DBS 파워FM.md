@@ -1,9 +1,9 @@
 [[분류:DBS 라디오]][[분류:대중음악 라디오 방송]][[분류:1996년 개국]]
 
-||<-4><tablealign=right><tablewidth=100%><tablebordercolor=#0a318c><tablebgcolor=#fff,#0a318c><bgcolor=#fff,#0a318c>{{{#!wiki style="margin: -10px -10px"
-||<tablebordercolor=#fff,#0a318c><rowbgcolor=#fff,#0a318c> [[파일:DBS 파워FM 로고.png|width=100]]||{{{#0a318c,#fff '''{{{+1 DBS POWER FM}}}'''[br]DBS 파워FM}}} ||}}} ||
-||<-4><bgcolor=#0a318c><color=#fff> '''삼산면이 가장 좋아하는 1등 라디오''' ||
-||<-3><colbgcolor=#0a318c><colcolor=#fff> '''국가''' ||<colbgcolor=#fff,#1c1d1f>[include(틀:국기, 국명=대한민국)] ||
+||<-4><tablealign=right><tablewidth=100%><tablebordercolor=#0a318c><colbgcolor=#0a318c><colcolor=#ffffff>{{{#!wiki style="margin: -10px -10px"
+||<tablebordercolor=#fff><rowbgcolor=#fff> [[파일:DBS 파워FM 로고.png|width=100]]||<(>{{{#0a318c '''{{{+1 DBS POWER FM}}}'''[br]DBS 파워FM}}} ||}}} ||
+||<-4> '''삼산면이 가장 좋아하는 1등 라디오''' ||
+||<-3> '''국가''' ||[include(틀:국기, 국명=대한민국)] ||
 ||<-3> '''개국''' ||[[1996년]] [[11월 14일]] ,,'''([age(1996-11-14)]주년)''',, ||
 ||<-3> '''호출부호''' ||HLSP-FM {{{-3 (1996.11.12~)}}} ||
 ||<-3> '''방송망''' ||[[DBS|DBS 파워FM]] 네트워크 '''(키 스테이션)''' ||
@@ -22,8 +22,8 @@
 '''HD 720p29.97'''}}}^^([[H.264|H264]], 1Mbps)^^[*V-Radio] ||
 || '''음향''' ||<colbgcolor=#fff> {{{#!wiki style="display: inline-block; padding: 2px 3px; border-radius: 3px; background: #0a318c; font-size: .8em; color: #ffffff"
 '''MPEG-4 AAC'''}}}^^(128-256kbps, 48kHz)^^ ||
-||<-2><|2> '''방송시간''' ||<colbgcolor=#0a318c><colcolor=#fff> '''통상''' ||<bgcolor=#fff> 오전 5시 ~ 다음날 오전 5시{{{-3 (24시간)}}} ||
-||<bgcolor=#0a318c> '''정파일''' ||<bgcolor=#fff> 오전 5시 ~ 다음날 오전 2시{{{-3 (21시간)}}} ||
+||<-2><|2> '''방송시간''' ||<colbgcolor=#0a318c> {{{#fff '''통상'''}}} || 오전 5시 ~ 다음날 오전 5시{{{-3 (24시간)}}} ||
+|| '''정파일''' ||오전 5시 ~ 다음날 오전 2시{{{-3 (21시간)}}} ||
 ||<-3> '''운영주체''' ||[[DBS]] 제작본부 라디오국{{{-3 (기획, 편성)}}} ||
 ||<-3> '''방송책임''' ||[[정우빈]],,(방송국장),, ||
 ||<-3> '''채널 소유''' ||[[DBS|(주)대한방송]] ||
