@@ -13,7 +13,7 @@
 ||<-2><|2> '''본사 소재지''' ||<nopad>[include(틀:지도, 장소=36.9793944, 127.2992400, 너비=100%, 높이=100%)] ||
 ||<(><bgcolor=#fff><color=#0a318c>{{{#!wiki style="padding: 2px 10px; border-radius: 5px; background: #0a318c"
 [[SBS 방송센터|{{{#fff '''DBS 방송센터'''}}}]]}}}{{{-2 [[경기도]] [[안성시]] [[금광면]]}}} ||
-||<|3> '''채널''' ||<width=60><colbgcolor=#0a318c><colcolor=#fff> [[텔레비전|{{{#fff '''TV'''}}}]] ||[[DBS TV]] ||
+||<|3> '''채널''' ||<width=60><colbgcolor=#0a318c><colcolor=#fff> [[텔레비전|{{{#fff '''TV'''}}}]] ||[[DBS]] ||
 || [[라디오|{{{#fff '''라디오'''}}}]] ||<colbgcolor=#fff><colcolor=#000> [[DBS 파워FM]] ||
 || [[디지털 멀티미디어 방송/대한민국/지상파|{{{#fff '''DMB'''}}}]] ||<colbgcolor=#fff><colcolor=#000> DBSⓤ TV ｜ [[DBS V-Radio]] ||
 ||<-2> '''홈페이지''' || ||
