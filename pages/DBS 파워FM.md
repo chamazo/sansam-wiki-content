@@ -1,4 +1,4 @@
-[[분류:대한방송]][[분류:2026년 방송 프로그램]][[분류:DBS 라디오]][[분류:정우빈]]
+[[분류:대한방송]][[분류:DBS 라디오]][[분류:대중음악 라디오 방송]][[분류:1985년 개국]]
 
 ||<-4><tablealign=right><tablewidth=100%><tablebordercolor=#0a318c><colbgcolor=#0a318c><colcolor=#ffffff>{{{#!wiki style="margin: -10px -10px"
 ||<tablebordercolor=#fff><rowbgcolor=#fff> [[파일:DBS 파워FM 로고.png|width=100]]||<(>{{{#0a318c '''{{{+1 DBS POWER FM}}}'''[br]DBS 파워FM}}} ||}}} ||
