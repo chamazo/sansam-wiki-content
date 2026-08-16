@@ -1,4 +1,4 @@
-[[분류:DBS 라디오]][[분류:대중음악 라디오 방송]][[분류:1985년 개국]]
+[[분류:대한방송]][[분류:DBS]][[분류:1985년 개국]]
 
 ||<-4><tablealign=right><tablewidth=100%><tablebordercolor=#0a318c><colbgcolor=#0a318c><colcolor=#ffffff>{{{#!wiki style="margin: -10px -10px"
 ||<tablebordercolor=#fff><rowbgcolor=#fff> [[파일:DBS 로고.png|width=100]]||<(>{{{#0a318c '''{{{+1 DBS}}}'''[br]DBS 텔레비전}}} ||}}} ||
@@ -20,19 +20,58 @@
 ||<-3> '''방송언어''' ||[[한국어]] ||
 ||<-3> '''가시청권역''' ||[[전국]] ||
 ||<-3> '''종일방송여부''' ||실시 ||
-||<-3> '''주파수''' ||'''672.34㎒''' {{{#!wiki style="display: inline-block; padding: 2px 3px; border-radius: 3px; background: #0a318c; font-size: .8em; color: #ffffff"
-'''전국'''}}} ||
-||<|3> '''방송[br]품질''' ||<-2><colbgcolor=#0a318c,#fff> {{{#fff '''FM'''}}} ||[[스테레오포닉 사운드|{{{#!wiki style="display: inline-block; padding: 2px 3px; border-radius: 3px; background: #0a318c; font-size: .8em; color: #ffffff"
-'''FM-AM 파일럿 톤 스테레오'''}}}]] ||
-||<|2> '''인터넷''' ||{{{#fff '''화질'''}}} ||HLS {{{#!wiki style="display: inline-block; padding: 2px 3px; border-radius: 3px; background: #0a318c; font-size: .8em; color: #ffffff"
-'''HD 720p29.97'''}}}^^([[H.264|H264]], 1Mbps)^^[*V-Radio] ||
-|| '''음향''' ||<colbgcolor=#fff> {{{#!wiki style="display: inline-block; padding: 2px 3px; border-radius: 3px; background: #0a318c; font-size: .8em; color: #ffffff"
-'''MPEG-4 AAC'''}}}^^(128-256kbps, 48kHz)^^ ||
-||<-2><|2> '''방송시간''' ||<colbgcolor=#0a318c> {{{#fff '''통상'''}}} || 오전 5시 ~ 다음날 오전 5시{{{-3 (24시간)}}} ||
-|| '''정파일''' ||오전 5시 ~ 다음날 오전 2시{{{-3 (21시간)}}} ||
-||<-3> '''운영주체''' ||[[DBS]] 제작본부 라디오국{{{-3 (기획, 편성)}}} ||
-||<-3> '''방송책임''' ||[[정우빈]],,(방송국장),, ||
-||<-3> '''채널 소유''' ||[[DBS|(주)대한방송]] ||
+||<|7> '''채널''' ||
+||<-2> '''[[위성방송|{{{#fff 위성방송}}}]]''' ||DBS HD HUB[* 위성방송 자체 송출의 채널명]/SBS[* 통신위성방송의 채널명] ||
+||<-2> '''ATV''' ||<|4> DBS[* 여기서 지상파 DTV의 경우 DBS 뒤에 공백이 추가되어 있다.] ||
+||<|4> '''[[디지털 방송|{{{#fff DTV}}}]]''' ||
+||<-1> '''[[HD(해상도)|{{{#fff HD}}}]]''' ||
+||<-1> '''[[4K UHD|{{{#fff UHD}}}]]''' ||
+||<-1> '''[[디지털 멀티미디어 방송/대한민국/지상파|{{{#fff DMB}}}]]''' ||DBS u[br]HD DBS u ||
+||<|6> '''채널[br]번호''' ||
+||<-2> '''ATV''' ||<|5> 672 ||
+||<|3> '''[[디지털 방송|{{{#fff DTV}}}]]''' ||
+||<-1> '''[[HD(해상도)|{{{#fff HD}}}]]''' ||
+||<-1> '''[[4K UHD|{{{#fff UHD}}}]]''' ||
+||<-2> '''[[위성방송|{{{#fff 위성방송}}}]]''' ||
+||<|5> '''중심[br]주파수''' ||
+||<|4> '''[[디지털 방송|{{{#fff DTV}}}]]''' ||
+||<-1> '''[[HD(해상도)|{{{#fff HD}}}]]''' ||<|3> '''672.34㎒''' ||
+||<-1> '''[[4K UHD|{{{#fff UHD}}}]]''' ||
+||<-1> '''[[디지털 멀티미디어 방송/대한민국/지상파|{{{#fff DMB}}}]]''' ||
+||<|13> '''방송[br]품질''' ||
+||<|3> '''ATV''' ||
+||<-1> '''화질''' ||--[[NTSC|NTSC-M]] {{{#!wiki style="display: inline-block; padding: 2px 3px; border-radius: 3px; background: #0a318c; font-size: .8em; color: #ffffff"
+'''486-line/59.94㎐'''}}}-- ||
+||<-1> '''음향''' ||--{{{#!wiki style="display: inline-block; padding: 2px 3px; border-radius: 3px; background: #0a318c; font-size: .8em; color: #ffffff"
+'''FM-FM 투 캐리어 스테레오'''}}}-- ||
+||<|3> '''[[디지털 방송|{{{#fff DTV}}}]]''' ||
+||<-1> '''화질''' ||[[ATSC|ATSC 1.0]] {{{#!wiki style="display: inline-block; padding: 2px 3px; border-radius: 3px; background: #0a318c; font-size: .8em; color: #ffffff"
+'''[[HD(해상도)|{{{#fff FHD 1080/59.94i}}}]]'''}}}[br]ATSC 3.0 {{{#!wiki style="display: inline-block; padding: 2px 3px; border-radius: 3px; background: #0a318c; font-size: .8em; color: #ffffff"
+'''[[4K UHD|{{{#fff UHD 2160/59.94p(4K)}}}]]'''}}} ||
+||<-1> '''음향''' ||{{{#!wiki style="display: inline-block; padding: 2px 3px; border-radius: 3px; background: #0a318c; font-size: .8em; color: #ffffff"
+'''[[돌비|{{{#fff 돌비 디지털}}}]]'''}}}[br]
+{{{#!wiki style="display: inline-block; padding: 2px 3px; border-radius: 3px; background: #0a318c; font-size: .8em; color: #ffffff"
+'''[[MPEG|{{{#fff MPEG-H 3D Audio}}}]]'''}}} ||
+||<|3> '''[[디지털 멀티미디어 방송/대한민국/지상파|{{{#fff DMB}}}]]''' ||
+||<-1> '''화질''' ||T-DMB {{{#!wiki style="display: inline-block; padding: 2px 3px; border-radius: 3px; background: #0a318c; font-size: .8em; color: #ffffff"
+'''[[SD(해상도)|{{{#fff 240/29.97p(QVGA)}}}]]'''}}}, {{{#!wiki style="display: inline-block; padding: 2px 3px; border-radius: 3px; background: #0a318c; font-size: .8em; color: #ffffff"
+'''[[HD(해상도)|{{{#fff 540/29.97p}}}]]'''}}} ||
+||<-1> '''음향''' ||{{{#!wiki style="display: inline-block; padding: 2px 3px; border-radius: 3px; background: #0a318c; font-size: .8em; color: #ffffff"
+'''[[AAC|{{{#fff MPEG-4 BSAC}}}]]'''}}}, 
+{{{#!wiki style="display: inline-block; padding: 2px 3px; border-radius: 3px; background: #0a318c; font-size: .8em; color: #ffffff"
+'''[[AAC|{{{#fff MPEG-4 AAC}}}]]'''}}} ||
+||<|3> '''[[위성방송|{{{#fff 위성방송}}}]]''' ||
+||<-1> '''화질''' ||--[[DVB|DVB-S]] {{{#!wiki style="display: inline-block; padding: 2px 3px; border-radius: 3px; background: #0a318c; font-size: .8em; color: #ffffff"
+'''[[SD(해상도)|{{{#fff 480/59.94i}}}]]'''}}}--[br]
+[[DVB|DVB-S2]] {{{#!wiki style="display: inline-block; padding: 2px 3px; border-radius: 3px; background: #0a318c; font-size: .8em; color: #ffffff"
+'''[[HD(해상도)|{{{#fff FHD 1080/59.94i}}}]]'''}}} ||
+||<-1> '''음향''' ||{{{#!wiki style="display: inline-block; padding: 2px 3px; border-radius: 3px; background: #0a318c; font-size: .8em; color: #ffffff"
+'''[[MPEG|{{{#fff MPEG-2 BC}}}]]'''}}} {{{-3 (자체위성방송)}}}[br]
+{{{#!wiki style="display: inline-block; padding: 2px 3px; border-radius: 3px; background: #0a318c; font-size: .8em; color: #ffffff"
+'''[[돌비|{{{#fff 돌비 디지털}}}]]'''}}} {{{-3 (통신위성방송)}}} ||
+||<-3> '''운영주체''' ||[[대한방송]] 편성실 ||
+||<-3> '''방송책임''' ||[[정우빈]] ||
+||<-3> '''채널 소유''' ||[[대한방송|(주)대한방송]] ||
 
 [목차]
 [clearfix]
