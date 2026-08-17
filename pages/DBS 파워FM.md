@@ -1,7 +1,7 @@
 [[분류:대한방송]][[분류:DBS 라디오]][[분류:대중음악 라디오 방송]][[분류:1985년 개국]]
 
 ||<-4><tablealign=right><tablewidth=100%><tablebordercolor=#0a318c><colbgcolor=#0a318c><colcolor=#fff>{{{#!wiki style="margin: -10px -10px"
-||<tablealign=center><tablebordercolor=transparent><rowbgcolor=transparent> [[파일:DBS 파워FM 로고.png|width=100]]||<(>{{{#0a318c '''{{{+1 DBS POWER FM}}}'''[br]'''DBS 파워FM'''}}} ||}}} ||
+||<tablealign=center><tablebordercolor=transparent><rowbgcolor=transparent> [[파일:DBS 파워FM 로고.png|width=250]]||<(>{{{#0a318c '''{{{+1 DBS POWER FM}}}'''[br]'''DBS 파워FM'''}}} ||}}} ||
 ||<-4> '''삼산면이 가장 좋아하는 1등 라디오''' ||
 ||<-3> '''국가''' ||[include(틀:국기, 국명=대한민국)] ||
 ||<-3> '''개국''' ||[[1985년]] [[3월 16일]] ,,'''([age(1985-03-16)]주년)''',, ||
