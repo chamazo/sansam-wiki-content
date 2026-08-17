@@ -1,4 +1,4 @@
-[[파일:images/0b9754689f8c497bab5362de565249ff.png]]
+[[파일:images/ccf44beb58a346ff8ff2caf35daaf84f.png]]
 
 ## 위 안내는 확인 후 지우셔도 됩니다.
 
@@ -17,4 +17,4 @@
 라이선스 모름 (기본)
 
 원본 이름: DBS 로고.png
-파일 경로: images/0b9754689f8c497bab5362de565249ff.png
+파일 경로: images/ccf44beb58a346ff8ff2caf35daaf84f.png

@@ -1,7 +1,7 @@
 [[분류:대한방송]][[분류:DBS]][[분류:1985년 개국]]
 
 ||<-4><tablealign=right><tablewidth=100%><tablebordercolor=#0a318c><colbgcolor=#0a318c><colcolor=#fff>{{{#!wiki style="margin: -10px -10px"
-||<tablealign=center><tablebordercolor=transparent><rowbgcolor=transparent> [[파일:DBS 로고.png|width=100]]||<(>{{{#0a318c '''{{{+1 DBS}}}'''[br]'''DBS 텔레비전'''}}} ||}}} ||
+||<tablealign=center><tablebordercolor=transparent><rowbgcolor=transparent> [[파일:DBS 로고.png|width=200]]||<(>{{{#0a318c '''{{{+1 DBS}}}'''[br]'''DBS 텔레비전'''}}} ||}}} ||
 ||<-4> '''건전한 방송으로 더 나은 내일을 만듭니다.''' ||
 ||<-3> '''국가''' ||[include(틀:국기, 국명=대한민국)] ||
 ||<-3> '''개국''' ||[[1985년]] [[3월 16일]] ,,'''([age(1985-03-16)]주년)''',, ||
@@ -10,7 +10,7 @@
 ||<|4> '''[[디지털 방송|{{{#fff DTV}}}]]''' ||
 ||<-1> '''[[HD(해상도)|{{{#fff HD}}}]]''' ||HLSP-DTV {{{-3 (2000.1.1-)}}} ||
 ||<-1> '''[[4K UHD|{{{#fff UHD}}}]]''' ||HLSP-UHDTV {{{-3 (2017.1.1-)}}} ||
-||<-1> '''[[디지털 멀티미디어 방송/대한민국/지상파|{{{#fff DMB}}}]]''' ||LSP-TDMB {{{-3 (2005.12.1-)}}} ||
+||<-1> '''[[디지털 멀티미디어 방송/대한민국/지상파|{{{#fff DMB}}}]]''' ||LSP-TDMB {{{-3 (2005.1.1-)}}} ||
 ||<-3> '''방송망''' ||[[대한방송]] 네트워크 '''(키 스테이션)''' ||
 ||<|4> '''방송[br]구분''' ||
 ||<-2> '''운형 유형''' ||[[민영방송]], 상업방송 ||
