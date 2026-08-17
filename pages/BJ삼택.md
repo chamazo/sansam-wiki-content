@@ -28,15 +28,14 @@ BJ삼택의 게임세상
 == 출연 ==
 
 === 방송 ===
-||<tablealign=center><tablewidth=700><tablebordercolor=#ec9e00><tablebgcolor=#fff><rowbgcolor=#ec9e00><rowcolor=#fff><width=15%> '''연도''' ||<width=20%> '''방송사''' ||<width=30%> '''제목''' ||<width=20%> '''역할''' ||<width=20%> '''비고''' ||
+||<tablealign=center><tablewidth=700><tablebordercolor=#ec9e00><tablebgcolor=transparent><rowbgcolor=#ec9e00><rowcolor=#fff><width=15%> '''연도''' ||<width=20%> '''방송사''' ||<width=30%> '''제목''' ||<width=20%> '''역할''' ||<width=20%> '''비고''' ||
 || [[2026년]] || [[STV|[[파일:STV 블랙.png|width=40]]]] || [[삼산면 이장 재보궐 선거|삼산면 이장 재보궐 선거 개표방송]] || BJ삼택 || ||
 || [[2026년]] || [[STV|[[파일:STV 블랙.png|width=40]]]] || ~~[[STV]] 엑셀방송~~ || BJ삼택 || ||
 === 광고 ===
-||<tablealign=center><tablewidth=700><tablebordercolor=#ec9e00><tablebgcolor=#fff><rowbgcolor=#ec9e00><rowcolor=#fff><width=15%> '''연도''' ||<width=20%> '''기업''' ||<width=30%> '''브랜드''' ||<width=20%> '''비고''' ||
+||<tablealign=center><tablewidth=700><tablebordercolor=#ec9e00><tablebgcolor=transparent><rowbgcolor=#ec9e00><rowcolor=#fff><width=15%> '''연도''' ||<width=20%> '''기업''' ||<width=30%> '''브랜드''' ||<width=20%> '''비고''' ||
 || [[2026년]] || [[삼산노인회]] ||  ||  ||
 || [[2026년]] || [[삼산택시 주식회사]] || 택시 || 전속모델 계약 ||
 || [[2026년]] || [[대한전자]] || 전체 || 전속모델 계약 ||
-
 == 여담 ==
 * 자신은 정치인인 [[정우빈(실존)]]과 삼산택시의 사장인 [[정우빈]]은 타인이라고 설명한다.
 * 자신은 삼산택시의 사장인 [[정우빈]]과 타인이라고 설명하며 닉네임의 **삼택**은 단순히 삼산택시를 많이 이용해 만들었다고 한다.
