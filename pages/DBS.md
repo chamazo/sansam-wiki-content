@@ -1,6 +1,6 @@
 [[분류:대한방송]][[분류:DBS]][[분류:1985년 개국]]
 
-||<-4><tablealign=right><tablewidth=100%><tablebordercolor=#0a318c><colbgcolor=#0a318c><colcolor=#ffffff>{{{#!wiki style="margin: -10px -10px"
+||<-4><tablealign=right><tablewidth=100%><tablebordercolor=#0a318c><colbgcolor=#0a318c><colcolor=#fff>{{{#!wiki style="margin: -10px -10px"
 ||<tablealign=center><tablebordercolor=transparent><rowbgcolor=transparent> [[파일:DBS 로고.png|width=100]]||<(>{{{#0a318c '''{{{+1 DBS}}}'''[br]'''DBS 텔레비전'''}}} ||}}} ||
 ||<-4> '''건전한 방송으로 더 나은 내일을 만듭니다.''' ||
 ||<-3> '''국가''' ||[include(틀:국기, 국명=대한민국)] ||
